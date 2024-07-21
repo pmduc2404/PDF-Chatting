@@ -1,4 +1,5 @@
 # PDF-Chatting
+This project uses RAG (Retrieval-Augmented Generation) to read and interact with the content of PDF files.
 
 ## How to use
 
